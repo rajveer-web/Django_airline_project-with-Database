@@ -1,6 +1,7 @@
 Airline Project using SQLite3 and Django
 
 This is a simple Django-based airline project using an SQLite3 database.
+
 ✅ Database Tables
 
 The following tables are created in the database:
